@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I am Anshita Verma - Software Engineer
+I am Anshita Verma, Software Engineer
+
+Skilled software developer with extensive coding experience. Passionate towards developing products which are customer oriented and time efficient. Committed towards learning new skills and embrace opportunities.
+
+I am a Data Enthusiast and I am passionate about getting more knowledge by working on real time datasets. I have done some cool projects in Data Engineering, Data Analysis, Machine Learning, NLP Model and Program Structure and Algorithm.
+
+Do checkout my projects in the Repositories Section. :)
+
+🌱 I’m currently learning Java, Python, ETL, AWS
+💬 Ask me about Technologies and Data Science
+
+⚡ Fun fact: Love Challenges and Exploring new things !!
 
 <!--
 **verma-anshita/verma-anshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
