@@ -7,9 +7,10 @@ I am a skilled software engineer with extensive coding experience. Passionate to
 
 I am a Data Enthusiast and I am passionate about getting more knowledge by working on real time datasets. I have done some cool projects in Data Engineering, Data Analysis, Machine Learning, NLP Model and Program Structure and Algorithm.
 
-Do checkout my projects in the Repositories Section. :)
+Do checkout my projects in the Repositories Section.   :)
 
 🌱 I’m currently learning Java, Python, ETL, AWS
+
 💬 Ask me about Technologies and Data Science
 
 ⚡ Fun fact: Love Challenges and Exploring new things !!
