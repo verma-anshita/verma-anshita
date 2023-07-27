@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I am Anshita Verma, Software Engineer.
+I am Anshita Verma.
 
 Little bit About Me :
-I am a skilled software engineer with extensive coding experience. Passionate towards developing products which are customer oriented and time efficient. Committed towards learning new skills and embrace opportunities.
 
 I am a Data Enthusiast and I am passionate about getting more knowledge by working on real time datasets. I have done some cool projects in Data Engineering, Data Analysis, Machine Learning, NLP Model and Program Structure and Algorithm.
+I am interested in developing products which are customer oriented and time efficient and committed towards learning new skills and embrace opportunities.
+
 
 Do checkout my projects in the Repositories Section. 😊
 
